@@ -1,24 +1,46 @@
-# Hi, I'm Hrishikesh Prahalad 👋
+Hi, I’m Hrishikesh Prahalad 👋
 
-MS in Computer Science from Clemson University with hands-on experience building production systems used by 1,000+ users.
+MS in Computer Science from Clemson University, with hands-on experience building production systems used by 1,000+ users. Passionate about full-stack development, IoT systems, and mobile applications.
 
-## 🔭 What I'm Working On
-- Full-stack applications with React, Node.js, and AWS
-- IoT systems and digital twin architectures
-- Mobile development (iOS/Android)
+⸻
 
-## 🛠️ Tech Stack
-**Languages:** Python, Java, JavaScript/TypeScript, Swift  
-**Frameworks:** React, Node.js, Flutter, Next.js  
-**Cloud & DevOps:** AWS (IoT Core, Lambda, Timestream), Docker, CI/CD  
+🔭 What I’m Working On
+	•	Developing full-stack applications with React, Node.js, and AWS
+	•	Designing IoT systems and digital twin architectures
+	•	Building mobile apps for iOS and Android
 
-## 📫 Let's Connect
-- Email: hrishi.prahalad@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hrishikesh-prahalad-ab960428a 
-- Location: Greer, SC
+⸻
 
-## 📚 Recent Work
-Check out my pinned repositories below for projects including:
-- Water logistics platform managing 30-vehicle fleet operations
-- Smart home IoT mobile applications
-- AWS-powered digital twin systems for agriculture
+🛠️ Tech Stack
+
+Languages: Python, Java, JavaScript/TypeScript, Swift
+Frameworks & Libraries: React, Node.js, Flutter, Next.js
+Cloud & DevOps: AWS (IoT Core, Lambda, Timestream), Docker, CI/CD
+
+⸻
+
+📂 Selected Projects
+
+Smart Home IoT Control Applications
+	•	Cross-platform mobile apps for controlling SmartBuild’s smart home devices
+	•	Developed iOS (Swift), Android (Java), and Flutter apps with unified REST API
+	•	Implemented three connectivity modes: direct gateway, local network, remote access
+	•	Reduced device control latency by 20% and supported 1,000+ active users
+
+ISKCON Water Logistics Platform
+	•	Android app managing 30-vehicle fleet distributing 30,000+ gallons daily
+	•	Real-time delivery tracking integrated with Supabase backend & admin portal
+	•	Eliminated paper-based workflows, enabling centralized operations & reporting
+	•	Solo-developed from requirements to deployment in 2 months
+
+AWS-Powered Digital Twin Systems
+	•	Built digital twin architectures for agriculture using AWS IoT, Lambda, and Timestream
+	•	Enabled real-time monitoring and predictive analytics for controlled environments
+
+⸻
+
+📫 Let’s Connect
+	•	Email: hrishi.prahalad@gmail.com￼
+	•	LinkedIn: linkedin.com/in/hrishikesh-prahalad-ab960428a￼
+	•	Location: Greer, SC, USA
+
